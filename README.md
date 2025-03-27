@@ -27,7 +27,7 @@ I am a Android Developer and UI/UX Designer from Mexico 🇲🇽
 
 - 👬 I’m looking to collaborate on Apps that your improves it UX and UI Experience 
 
-- :zap: In my free time, I study English for looking better oportunities in this area and also improve my tech stack
+- :zap: In my free time, I enjoy playing videogames 🎮 and I like try new food 🥘
 
 - 💬 Ask me about User Experience and User Interface, I don't know all on it but I can be helpful
 
