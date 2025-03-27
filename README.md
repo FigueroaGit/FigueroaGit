@@ -23,7 +23,7 @@ I am a Android Developer and UI/UX Designer from Mexico 🇲🇽
 
 - :telescope: I’m working as a Software Engineer and contributing to create mobile & automotive applications.
 
-- :seedling: I’m currently learning Android & iOS development to being a full stack mobile developer
+- :seedling: I’m currently learning iOS development to being a full stack mobile developer
 
 - 👬 I’m looking to collaborate on Apps that your improves it UX and UI Experience 
 
