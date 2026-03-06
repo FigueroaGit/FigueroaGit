@@ -2,42 +2,48 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <div id="badges">
-  <a href="linkedin.com/in/hmfp24">
+  <a href="https://linkedin.com/in/hmfp24">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
-  ![](https://komarev.com/ghpvc/?username=FigueroaGit&style=for-the-badge)
+
+  <img src="https://komarev.com/ghpvc/?username=FigueroaGit&style=for-the-badge" alt="profile views"/>
 </div>
 
 <h1>
-  hey there
+  Hi, I'm Hector – Android Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 </div>
 
-
 ---
-### :man_technologist: About Me :
 
-I am a Android Developer and UI/UX Designer from Mexico 🇲🇽
+### :man_technologist: About Me
 
-- :telescope: I’m working as a Software Engineer and contributing to create mobile & automotive applications.
+I’m an **Android Developer from Mexico 🇲🇽** focused on building native mobile applications using **Kotlin and modern Android technologies**.
 
-- :seedling: I’m currently learning iOS development to being a full stack mobile developer
+- :telescope: I work as a **Software Engineer building mobile and automotive Android applications**.
 
-- 👬 I’m looking to collaborate on Apps that your improves it UX and UI Experience 
+- :gear: I enjoy creating **complex UI systems, animations, and responsive interfaces**.
 
-- :zap: In my free time, I enjoy playing videogames 🎮 and I like try new food 🥘
+- :seedling: Currently learning **iOS development** to expand into **full-stack mobile development**.
 
-- 💬 Ask me about User Experience and User Interface, I don't know all on it but I can be helpful
+- 🤝 I’m open to collaborating on **projects that improve user experience and interface design**.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hmfp24-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](linkedin.com/in/hmfp24)
+- :zap: In my free time I enjoy **playing videogames 🎮 and trying new food 🥘**.
+
+- 💬 Ask me about **Android UI, UX design, and mobile architecture**.
+
+- :mailbox: How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-hmfp24-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hmfp24)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
